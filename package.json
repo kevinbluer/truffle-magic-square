@@ -18,8 +18,5 @@
   "bugs": {
     "url": "https://github.com/trufflesuite/solidity-magic-square/issues"
   },
-  "homepage": "https://github.com/trufflesuite/solidity-magic-square#readme",
-  "devDependencies": {
-    "truffle": "^5.0.13"
-  }
+  "homepage": "https://github.com/trufflesuite/solidity-magic-square#readme"
 }
